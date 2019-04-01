@@ -2,7 +2,7 @@
 Selected papers in ML/NLP/DM and UX/HCI
 
 ML NLP DM
-1 CBHE: Corner-based Building Height Estimation for Complex Street Scene Images
+1 CBHE: Corner-based Building Height Estimation for Complex Street Scene Images\
 2 Language in Our Time: An Empirical Analysis of Hashtags
 3 Stereotypical Bias Removal for Hate Speech Detection Task using Knowledge-based Generalizations
 4 Message Distortion in Information Cascades
