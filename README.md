@@ -1,7 +1,7 @@
 # [The-Web-Conference-2019](https://www2019.thewebconf.org/)
-Selected papers in ML/NLP/DM and UX/HCI
+Selected papers in `ML/NLP/DM` and `UX/HCI`
 
-ML NLP DM\
+`ML NLP DM`\
 1 CBHE: Corner-based Building Height Estimation for Complex Street Scene Images\
 2 Language in Our Time: An Empirical Analysis of Hashtags\
 3 Stereotypical Bias Removal for Hate Speech Detection Task using Knowledge-based Generalizations\
@@ -18,7 +18,7 @@ ML NLP DM\
 14 ---Predicting pregnancy using large-scale data from a women's health tracking mobile application\
 15 ---Improving Neural Response Diversity with Frequency-Aware Cross-Entropy Loss\
 
-UX HCI\
+`UX HCI`\
 1 Tortoise or Hare? Quantifying the Effects of Performance on Mobile App Retention\
 2 Who Watches the Watchmen: Exploring Complaints on the Web\
 3 Studying Preferences and Concerns about Information Disclosure in Email Notifications\
