@@ -29,3 +29,18 @@ Selected papers in `ML/NLP/DM` and `UX/HCI`
 8 ---What Makes a Good Team? A Large-scale Study on the Effect of Team Composition in Online Gaming\
 9 ---Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality\
 10 ---Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning
+
+`Selected 2018 Papers`\
+01 Community Interaction and Conflict on the Web
+02 Find the Conversation Killers: A Predictive Study of Thread-ending Posts
+03 When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments
+04 Modeling Individual Cyclic Variation in Human Behavior
+05 WhatWe Read, What We Search: Media Attention and Public Attention Among 193 Countries
+06 I'll Be Back: On the Multiple Lives of Users of a Mobile Activity Tracking Application
+07 When Online Dating Meets Nash Social Welfare: Achieving Efficiency and Fairness
+08 The Size Conundrum: Why Online Knowledge Markets Can Fail at Scale
+09 Did You Really Just Have a Heart Attack? Towards Robust Detection of Personal Health Mentions in Social Media
+10 Tagvisor: A Privacy Advisor for Sharing Hashtags
+11 "Satisfaction with Failure" or "Unsatisfied Success": Investigating the Relationship between Search Success and User Satisfaction
+12 Modeling Success and Engagement for the App Economy
+13 Through a Gender Lens: Learning Usage Patterns of Emojis from Large-Scale Android Users
